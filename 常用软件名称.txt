@@ -1,0 +1,4 @@
+建模软件：Enterprise Architect
+数据库管理软件:HeidiSQL
+协同工具：Git
+原型软件：Axure RP
